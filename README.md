@@ -2,4 +2,4 @@
 A no-fuss, click-and-type text editor built with Python magic!
 
 
-![Image](https://github.com/user-attachments/assets/cbbcf871-24d1-4992-b1f5-d0e123897d78)
+![Video](https://github.com/user-attachments/assets/2fe8076d-ed28-4308-89f6-444d788393cc)
