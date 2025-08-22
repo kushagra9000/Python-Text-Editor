@@ -1,7 +1,5 @@
 # Python-Text-Editor
 A no-fuss, click-and-type text editor built with Python magic!
 
-![image alt](https://github.com/kushagra9000/Python-Text-Editor/blob/51ebb110437c969cb2aada222a528876b22ce653/Screenshots/interface)
+https://github.com/user-attachments/assets/fa536e66-6292-48c2-b4b6-cbf4405a7487
 
-
-![image alt](https://github.com/kushagra9000/Python-Text-Editor/blob/51ebb110437c969cb2aada222a528876b22ce653/Screenshots/File%20menu)
